@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "e670e093f7b40e73",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5e7a183b32390b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed460b67d6e32d3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "006.3.2 Creating a RAG System Lab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "006.3.2 Creating a RAG System Lab"
+            }
+          },
+          {
+            "id": "cb4eba43d2e19a48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "007.1.1 Bash - General Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "007.1.1 Bash - General Commands"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76d390ac91571172",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7c3875ce0ebd440",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dac3e0d26ac6f5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6827ceb090a8df51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eedeef0904107fab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "right": {
+    "id": "0cd26fcb7777808c",
+    "type": "split",
+    "children": [
+      {
+        "id": "39488646860a4f4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ccf371697dfccd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Areas/000 Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 000 Index"
+            }
+          },
+          {
+            "id": "75d8b34639248503",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Areas/000 Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 000 Index"
+            }
+          },
+          {
+            "id": "b765dfb67821a679",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "690db311c0f69537",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Areas/000 Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 000 Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "cb4eba43d2e19a48",
+  "lastOpenFiles": [
+    "1. Notes/000 Index.md",
+    "010.1.1 GitHub Workflow Overview.md",
+    "010.1.2 From Local Changes to Remote Repsitory.md",
+    "007.1.1 Bash - General Commands.md",
+    "GitHub_Workflow.jpg",
+    "006.4.2 RAG optimization + Reranking Lab.md",
+    "009.1.2.1 570. Managers with at Least 5 Direct Reports.md",
+    "006.3.2 Creating a RAG System Lab.md",
+    "007.1.2 Git Pull +Commit Workflow.md",
+    "2. Logs/Weekly Reviews/Week of 11-02-2025.md",
+    "2. Logs/Daily Logs/11-03-2025.md",
+    "1. Notes/0000 Articles.md",
+    "3. Lists/To Read.md",
+    "3. Lists/To Watch.md",
+    "006.4.1 RAG optimization + Reranking Lecture.md",
+    "Templates/Weekly Review.md",
+    "006.3.1 Vectors, RAG, & Fine Tuning Lecture.md",
+    "3. Lists/LinkedIn Metrics.md",
+    "3. Lists/Project Ideas.md",
+    "3. Lists/LinkedIn Post Ideas.md",
+    "3. Lists",
+    "0. Indox/Full Document Contents/Getting Started with Reader (Daniel Doyon).md",
+    "0. Indox/Full Document Contents/21 Essential Concepts Every Data Engineering Should Master (Rui Carvalho).md",
+    "0. Indox/21 Essential Concepts Every Data Engineering Should Master (Rui Carvalho) - notes.md",
+    "011.1.1 Stop Using Slowly Changing Dimensions.md",
+    "Data_Warehousing_Setup.png",
+    "Data_Warehousing_Setup.png.crdownload",
+    "Logs/Daily Logs/11-02-2025.md",
+    "007.1.1 Correlated vs. Non-Correlated Subqueries.md",
+    "001.3.1 Queries.md",
+    "Logs/Weekly Logs/desktop.ini",
+    "2. Logs/Weekly Reviews",
+    "2. Logs/Daily Logs",
+    "2. Logs",
+    "Templates",
+    "reranking_diagram.jpg",
+    "segmenting_data_diagram.jpg",
+    "lists_probe_graph.jpg",
+    "IVFF_diagram.jpg",
+    "HNSW_diagram.jpg",
+    "IVFF_vs_HNSW.jpg",
+    "Event_queue_trigger_example.jpg",
+    "CRON_job_Trigger_Example.jpg",
+    "A Compact Guide to RAG.pdf",
+    "and_e_subject_type___v_type.csv",
+    "Result_19.csv"
+  ]
+}

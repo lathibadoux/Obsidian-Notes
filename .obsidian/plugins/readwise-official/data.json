@@ -1,0 +1,21 @@
+{
+  "token": "LqPKnpwZ38tusIFDWp1y7kriIDRKEpa8NrS5ICxZ9hQthMIOxF",
+  "readwiseDir": "0. Indox",
+  "frequency": "60",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": true,
+  "lastSavedStatusID": 21929268,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [],
+  "failedBooks": [],
+  "booksIDsMap": {
+    "0. Indox/Full Document Contents/Getting Started with Reader (Daniel Doyon).md": "readerdocument:01k20deakkqyz6d2dxbrvnqmwj",
+    "0. Indox/Full Document Contents/Reader Frequently Asked Questions (Daniel Doyon).md": "readerdocument:01k20debba4vywmx62rahb15eg",
+    "0. Indox/Full Document Contents/Quickly add great reads from the Readwise community to your library (Daniel Doyon).md": "readerdocument:01k20debcb1e28fj46geedwmw9",
+    "0. Indox/Full Document Contents/21 Essential Concepts Every Data Engineering Should Master (Rui Carvalho).md": "54113899",
+    "0. Indox/21 Essential Concepts Every Data Engineering Should Master (Rui Carvalho) - notes.md": "54113899"
+  },
+  "reimportShowConfirmation": true
+}

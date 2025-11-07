@@ -1,0 +1,13 @@
+identifier,type,json_build_object
+1610612737,team,"{""abbreviation"" : ""ATL"", ""nickname"" : ""Hawks"", ""city"" : ""Atlanta"", ""arena"" : ""State Farm Arena"", ""year_founded"" : 1949}"
+1610612738,team,"{""abbreviation"" : ""BOS"", ""nickname"" : ""Celtics"", ""city"" : ""Boston"", ""arena"" : ""TD Garden"", ""year_founded"" : 1946}"
+1610612740,team,"{""abbreviation"" : ""NOP"", ""nickname"" : ""Pelicans"", ""city"" : ""New Orleans"", ""arena"" : ""Smoothie King Center"", ""year_founded"" : 2002}"
+1610612741,team,"{""abbreviation"" : ""CHI"", ""nickname"" : ""Bulls"", ""city"" : ""Chicago"", ""arena"" : ""United Center"", ""year_founded"" : 1966}"
+1610612742,team,"{""abbreviation"" : ""DAL"", ""nickname"" : ""Mavericks"", ""city"" : ""Dallas"", ""arena"" : ""American Airlines Center"", ""year_founded"" : 1980}"
+1610612743,team,"{""abbreviation"" : ""DEN"", ""nickname"" : ""Nuggets"", ""city"" : ""Denver"", ""arena"" : ""Pepsi Center"", ""year_founded"" : 1976}"
+1610612745,team,"{""abbreviation"" : ""HOU"", ""nickname"" : ""Rockets"", ""city"" : ""Houston"", ""arena"" : ""Toyota Center"", ""year_founded"" : 1967}"
+1610612746,team,"{""abbreviation"" : ""LAC"", ""nickname"" : ""Clippers"", ""city"" : ""Los Angeles"", ""arena"" : ""Staples Center"", ""year_founded"" : 1970}"
+1610612747,team,"{""abbreviation"" : ""LAL"", ""nickname"" : ""Lakers"", ""city"" : ""Los Angeles"", ""arena"" : ""Staples Center"", ""year_founded"" : 1948}"
+1610612748,team,"{""abbreviation"" : ""MIA"", ""nickname"" : ""Heat"", ""city"" : ""Miami"", ""arena"" : ""AmericanAirlines Arena"", ""year_founded"" : 1988}"
+1610612749,team,"{""abbreviation"" : ""MIL"", ""nickname"" : ""Bucks"", ""city"" : ""Milwaukee"", ""arena"" : ""Fiserv Forum"", ""year_founded"" : 1968}"
+1610612750,team,"{""abbreviation"" : ""MIN"", ""nickname"" : ""Timberwolves"", ""city"" : ""Minnesota"", ""arena"" : ""Target Center"", ""year_founded"" : 1989}"

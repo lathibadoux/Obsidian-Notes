@@ -1,0 +1,6 @@
+player_name,streak_identifier,is_active,scoring_class,start_season,end_season
+Michael Jordan,0,true,star,1996,1997
+Michael Jordan,1,false,star,1998,2000
+Michael Jordan,2,true,star,2001,2001
+Michael Jordan,3,true,good,2002,2002
+Michael Jordan,4,false,good,2003,2022

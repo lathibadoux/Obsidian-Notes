@@ -1,0 +1,13 @@
+- [ ] [Fast API Tutorial for AI Engineers | by Tom Odhiambo | Medium](https://medium.com/%40odhitom09/fast-api-tutorial-for-ai-engineers-576bd14e4ddf)
+- [ ] [From Facts & Metrics to Media Machine Learning: Evolving the Data Engineering Function at Netflix | by Netflix Technology Blog | Netflix TechBlog](https://medium.com/netflix-techblog/from-facts-metrics-to-media-machine-learning-evolving-the-data-engineering-function-at-netflix-6dcc91058d8d)
+- [ ] [Post-Training Generative Recommenders with Advantage-Weighted Supervised Finetuning | by Netflix Technology Blog | Oct, 2025 | Netflix TechBlog](https://medium.com/netflix-techblog/post-training-generative-recommenders-with-advantage-weighted-supervised-finetuning-61a538d717a9)
+- [ ] [Data as a Product: Applying a Product Mindset to Data at Netflix | by Netflix Technology Blog | Oct, 2025 | Medium](https://medium.com/@netflixtechblog/data-as-a-product-applying-a-product-mindset-to-data-at-netflix-4a4d1287a31d)
+- [ ] [Building a Resilient Data Platform with Write-Ahead Log at Netflix | by Netflix Technology Blog | Sep, 2025 | Netflix TechBlog](https://medium.com/netflix-techblog/building-a-resilient-data-platform-with-write-ahead-log-at-netflix-127b6712359a)
+- [ ] [Scaling Muse: How Netflix Powers Data-Driven Creative Insights at Trillion-Row Scale | by Netflix Technology Blog | Sep, 2025 | Netflix TechBlog](https://medium.com/netflix-techblog/scaling-muse-how-netflix-powers-data-driven-creative-insights-at-trillion-row-scale-aa9ad326fd77)
+- [ ] [Behind the Streams: Building a Reliable Cloud Live Streaming Pipeline for Netflix. Part 2. | by Netflix Technology Blog | Sep, 2025 | Netflix TechBlog](https://medium.com/netflix-techblog/building-a-reliable-cloud-live-streaming-pipeline-for-netflix-8627c608c967)
+- [ ] https://netflixtechblog.com/behind-the-streams-live-at-netflix-part-1-d23f917c2f40?gi=3242ea4a12ef
+- [ ] [How to design resilient and large scale data systems](https://substack.com/@eczachly/p-141168442)
+- [ ] [Toward A Practical Perceptual Video Quality Metric | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/toward-a-practical-perceptual-video-quality-metric-653f208b9652)
+- [ ] [Functional Data Engineering — a modern paradigm for batch data processing | by Maxime Beauchemin | Medium](https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
+- [ ] [What is a Medallion Architecture?](https://www.databricks.com/glossary/medallion-architecture)
+- [ ] [How to data model correctly: Kimball vs One Big Table](https://blog.dataexpert.io/p/how-to-data-model-correctly-kimball)

@@ -1,0 +1,13 @@
+identifier,vertex_type,json_build_object
+708,player,"{""player_name"" : ""Kevin Garnett"", ""number_of_games"" : 10, ""total_points"" : 24, ""teams"" : [1610612750]}"
+977,player,"{""player_name"" : ""Kobe Bryant"", ""number_of_games"" : 39, ""total_points"" : 661, ""teams"" : [1610612747]}"
+1495,player,"{""player_name"" : ""Tim Duncan"", ""number_of_games"" : 44, ""total_points"" : 329, ""teams"" : [1610612759]}"
+1713,player,"{""player_name"" : ""Vince Carter"", ""number_of_games"" : 378, ""total_points"" : 2286, ""teams"" : [1610612737,1610612758,1610612763]}"
+1717,player,"{""player_name"" : ""Dirk Nowitzki"", ""number_of_games"" : 255, ""total_points"" : 3087, ""teams"" : [1610612742]}"
+1718,player,"{""player_name"" : ""Paul Pierce"", ""number_of_games"" : 142, ""total_points"" : 378, ""teams"" : [1610612746]}"
+1737,player,"{""player_name"" : ""Nazr Mohammed"", ""number_of_games"" : 34, ""total_points"" : 10, ""teams"" : [1610612760]}"
+1882,player,"{""player_name"" : ""Elton Brand"", ""number_of_games"" : 37, ""total_points"" : 70, ""teams"" : [1610612755]}"
+1889,player,"{""player_name"" : ""Andre Miller"", ""number_of_games"" : 55, ""total_points"" : 95, ""teams"" : [1610612750,1610612759]}"
+1891,player,"{""player_name"" : ""Jason Terry"", ""number_of_games"" : 229, ""total_points"" : 816, ""teams"" : [1610612745,1610612749]}"
+1897,player,"{""player_name"" : ""Metta World Peace"", ""number_of_games"" : 90, ""total_points"" : 149, ""teams"" : [1610612747]}"
+1938,player,"{""player_name"" : ""Manu Ginobili"", ""number_of_games"" : 225, ""total_points"" : 1621, ""teams"" : [1610612759]}"

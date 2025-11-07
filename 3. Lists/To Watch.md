@@ -1,0 +1,4 @@
+- [ ] [Sharing My AI-Powered Coding Workflow To Build Apps REALLY Fast](https://www.youtube.com/watch?v=LvsgCdWss4I)
+- [ ] [Building AI Agents in Pure Python - Beginner Course](https://www.youtube.com/watch?v=bZzyPscbtI8)
+- [ ] [SQL Views Tutorial | 6 Top Use Cases for Views | #SQL Course 29](https://www.youtube.com/watch?v=n17RCiV5xpA&list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&index=29)
+- [ ] [MCP Crash Course for Python Developers](https://www.youtube.com/watch?v=5xqFjh56AwM)
