@@ -4,25 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d5e7a183b32390b4",
+        "id": "e5e2b58c745d662e",
         "type": "tabs",
         "children": [
           {
-            "id": "ed460b67d6e32d3c",
+            "id": "3e9a03f9facee088",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006.3.2 Creating a RAG System Lab.md",
+                "file": "1. Notes/000 Notes Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "006.3.2 Creating a RAG System Lab"
+              "title": "000 Notes Index"
             }
           },
           {
-            "id": "cb4eba43d2e19a48",
+            "id": "0c29914c199bc1be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Notes/000 Notes Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000 Notes Index"
+            }
+          },
+          {
+            "id": "f31fe06625265969",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +48,37 @@
               "icon": "lucide-file",
               "title": "007.1.1 Bash - General Commands"
             }
+          },
+          {
+            "id": "e9712dc7a1ee72e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "006.3.4 RAG Optimization + Reranking Lab Day 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "006.3.4 RAG Optimization + Reranking Lab Day 2"
+            }
+          },
+          {
+            "id": "1ca7a6aa790f73a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "006.3.4 RAG Optimization + Reranking Lab Day 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "006.3.4 RAG Optimization + Reranking Lab Day 2"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,38 +228,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cb4eba43d2e19a48",
+  "active": "f31fe06625265969",
   "lastOpenFiles": [
-    "1. Notes/000 Index.md",
-    "010.1.1 GitHub Workflow Overview.md",
-    "010.1.2 From Local Changes to Remote Repsitory.md",
+    "1. Notes/000 Notes Index.md",
+    "006.1.2 Application System Overview.md",
+    "Untitled 5.md",
+    "006.3.4 RAG Optimization + Reranking Lab Day 2.md",
+    "3. LinkedIn Posts/LinkedIn Metrics.md",
+    "3. LinkedIn Posts/000 Posts Index.md",
+    "3. LinkedIn Posts/LinkedIn Post Ideas.md",
+    "11.11.2025.md",
+    "Butters_workspace.jpg",
+    "Workspace.jpg",
+    "ft6.md",
+    "3. LinkedIn Posts",
+    "2. Resources/Untitled",
+    "006.4.2 MCP & Agentic AI Lab Day 1.md",
     "007.1.1 Bash - General Commands.md",
+    "006.1.1 Bash Workflow Commands.md",
+    "4. Lists/To Read.md",
+    "4. Lists/To Watch.md",
+    "006.3.2 RAG Optimization + Reranking Lab Day 1.md",
+    "012.1 Functions.md",
+    "012.2 Methods.md",
+    "007.2.1 Python - General Code.md",
+    "006.3.3 RAG Optimization + Reranking Lecture Day 2.md",
+    "006.2.2 Prompt Engineering Lab.md",
+    "001.1 Stop Using Slowly Changing Dimensions Part 1.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "001.2 Stop Using Slowly Changing Dimensions Part 2.md",
+    "2. Resources/000 Resources Index.md",
+    "011.1.1 Idempotent Pipeline Basics.md",
+    "SCD_is_bad_for_backfill.jpg",
+    "SCD_Types.jpg",
+    "2. Resources",
     "GitHub_Workflow.jpg",
-    "006.4.2 RAG optimization + Reranking Lab.md",
-    "009.1.2.1 570. Managers with at Least 5 Direct Reports.md",
-    "006.3.2 Creating a RAG System Lab.md",
-    "007.1.2 Git Pull +Commit Workflow.md",
-    "2. Logs/Weekly Reviews/Week of 11-02-2025.md",
-    "2. Logs/Daily Logs/11-03-2025.md",
-    "1. Notes/0000 Articles.md",
-    "3. Lists/To Read.md",
-    "3. Lists/To Watch.md",
-    "006.4.1 RAG optimization + Reranking Lecture.md",
-    "Templates/Weekly Review.md",
-    "006.3.1 Vectors, RAG, & Fine Tuning Lecture.md",
-    "3. Lists/LinkedIn Metrics.md",
-    "3. Lists/Project Ideas.md",
-    "3. Lists/LinkedIn Post Ideas.md",
-    "3. Lists",
-    "0. Indox/Full Document Contents/Getting Started with Reader (Daniel Doyon).md",
-    "0. Indox/Full Document Contents/21 Essential Concepts Every Data Engineering Should Master (Rui Carvalho).md",
-    "0. Indox/21 Essential Concepts Every Data Engineering Should Master (Rui Carvalho) - notes.md",
-    "011.1.1 Stop Using Slowly Changing Dimensions.md",
+    "4. Lists",
     "Data_Warehousing_Setup.png",
     "Data_Warehousing_Setup.png.crdownload",
-    "Logs/Daily Logs/11-02-2025.md",
-    "007.1.1 Correlated vs. Non-Correlated Subqueries.md",
-    "001.3.1 Queries.md",
     "Logs/Weekly Logs/desktop.ini",
     "2. Logs/Weekly Reviews",
     "2. Logs/Daily Logs",
@@ -226,13 +275,6 @@
     "reranking_diagram.jpg",
     "segmenting_data_diagram.jpg",
     "lists_probe_graph.jpg",
-    "IVFF_diagram.jpg",
-    "HNSW_diagram.jpg",
-    "IVFF_vs_HNSW.jpg",
-    "Event_queue_trigger_example.jpg",
-    "CRON_job_Trigger_Example.jpg",
-    "A Compact Guide to RAG.pdf",
-    "and_e_subject_type___v_type.csv",
-    "Result_19.csv"
+    "IVFF_diagram.jpg"
   ]
 }

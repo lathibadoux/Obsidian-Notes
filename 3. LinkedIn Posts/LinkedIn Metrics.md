@@ -11,7 +11,7 @@
 
 ### Post Log + Metrics
 
-| Post Date | Category       | Content Summary                                | Comments | Likes | Views | Reactions | Reposts | Engagement Rate |
-| --------- | -------------- | ---------------------------------------------- | -------- | ----- | ----- | --------- | ------- | --------------- |
-| 11/3/2025 | Resource Share | Stop Using Slowly Changing Dimensions - Part 1 |          |       |       |           |         |                 |
-|           |                |                                                |          |       |       |           |         |                 |
+| Post Date  | Category       | Content Summary                                | As of      | Impressions | Members | Profile Views | Followers Gained | Reactions | Comments | Reposts | Saves | Sends |
+| ---------- | -------------- | ---------------------------------------------- | ---------- | ----------- | ------- | ------------- | ---------------- | --------- | -------- | ------- | ----- | ----- |
+| 11/3/2025  | Resource Share | Stop Using Slowly Changing Dimensions - Part 1 | 11/11/2025 | 472         | 285     | 9             | 0                | 4         | 1        | 0       | 0     | 0     |
+| 11/11/2025 |                | AI Eng Bootcamp sharing                        |            |             |         |               |                  |           |          |         |       |       |
