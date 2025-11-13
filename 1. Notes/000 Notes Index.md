@@ -6,7 +6,7 @@
 [[#006 AI Engineering Bootcamp]]
 [[#007 Code Snippets]]
 [[#008 AI Engineering]]
-[[#009 Interview Resources]]
+[[#009 Career Resources]]
 [[#010 Git & GitHub]]
 [[#011 Data Warehousing]]
 [[#012 Python]]
@@ -76,14 +76,15 @@
 ## 006.2 Week 1
 [[006.2.1 Prompt Engineering Lecture]]
 [[006.2.2 Prompt Engineering Lab]]
-[[006.2.3 Assignment 1]]
-[[006.2.4 Vectors, RAG, & Fine Tuning Lecture]]
-[[006.2.5 Creating a RAG System Lab]]
+[[006.2.3 Vectors, RAG, & Fine Tuning Lecture]]
+[[006.2.4 Creating a RAG System Lab]]
+[[006.2.5 Assignment 1 Prompt Engineering]]
 ## 006.3 Week 2
 [[006.3.1 RAG Optimization+ Reranking Lecture Day 1]]
 [[006.3.2 RAG Optimization + Reranking Lab Day 1]]
 [[006.3.3 RAG Optimization + Reranking Lecture Day 2]]
 [[006.3.4 RAG Optimization + Reranking Lab Day 2]]
+[[006.3.5 Assignment 2 Metadata Filtering]]
 ## 006.4 Week 3
 [[006.4.1 MCP & Agentic AI Lecture Day 1]]
 [[006.4.2 MCP & Agentic AI Lab Day 1]]
@@ -94,13 +95,18 @@
 [[007.1.1 Bash - General Commands]]
 [[007.1.2 Git Pull +Commit Workflow]]
 
+## 007.2 Python
+[[007.2.1 Backend Setup]]
+
 ---
 # 008 AI Engineering
 ### 008.1 Prompt Engineering
 [[008.1.1 Best Practices for Prompt Engineering]]
+## 008.2 AI Agents
+[[008.2.1 Building AI Agents in Pure Python]]
 
 ---
-# 009 Interview Resources
+# 009 Career Resources
 ## 009.1 SQL Interview Resources
 ### 009.1.1 Interview Questions
 009.1.1.1 SQL Indexes > Link back to [[001.5.5 Interview Questions about Indexes]]
@@ -126,12 +132,14 @@
 
 ## 009.4 Bootcamp Career Dev Talks
 [[009.4.1 Career Dev Session 1]]
+[[009.4.2 Career Dev Session 2]]
 
 ---
 # 010 Git & GitHub
 ## 010.1 Git Workflows
 [[010.1.1 GitHub Workflow Overview]]
 [[010.1.2 From Local Changes to Remote Repsitory]]
+[[010.1.3 Copy a public repo into your own repository]]
 
 ## 010.2 Git Terminology
 [[010.2 Git Terminology]]
@@ -145,3 +153,4 @@
 ## 012 Python
 [[012.1 Functions]]
 [[012.2 Methods]]
+[[012.3 Virtual Environments]]
